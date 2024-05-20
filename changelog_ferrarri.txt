@@ -1,0 +1,10 @@
+  20-05-2024
+ 
+  - Added OTA support
+  - Added Oneplus Camera & Gallery
+  - Fixed camera in third party apps
+  - Switch to jemalloc
+  - Disabled Smart Pixels on UDFPS
+  - Migrate to Oplus power AIDL HAL
+  - Droped QTI perfd
+  - Improved smoothness and stability
